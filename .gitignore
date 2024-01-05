@@ -1,0 +1,10 @@
+**/terraform.tfvars
+**/.terraform
+**/.terraform.lock.hcl
+**/.terraform.tfstate.lock.info
+**/TextFile1.txt
+**/terraform.tfstate
+**/terraform.tfstate.backup
+/.vs/TerraformvSphere/FileContentIndex
+/.vs/TerraformvSphere/v17
+/.vs
