@@ -1,5 +1,6 @@
 module "VMDeployment" {
-  source = "../modules/VMDeployment"
+  source = "../modules/VMDeployment/PXE
+  "
 
   vsphere_datacenter = "Datacenter"
 
